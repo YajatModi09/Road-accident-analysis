@@ -1,0 +1,11 @@
+road_id,road_type,surface_condition
+1,Highway,Dry
+2,Urban Road,Wet
+3,Urban Road,Potholes
+4,Highway,Wet
+5,Flyover,Dry
+6,Urban Road,Dry
+7,Rural Road,Gravel
+8,Flyover,Wet
+9,Highway,Potholes
+10,Underpass,Dry
